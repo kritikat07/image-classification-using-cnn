@@ -3,7 +3,6 @@ This project aims to classify the images in the given dataset as cats or dogs us
 
 ### Approach and pipeline:
 Refer to the [report](Report.pdf) and [code](./Code) for the approach and implementation. 
-
 ### Results:
 - Results after training 18,000 images of cats and dogs:
     - number of epochs = 15
